@@ -14,5 +14,7 @@ These sites serve also as great source of data about movies and their reception 
 
 ### Further reading
 
-* Docs etc.
+This is just an example using several pages in this blog. It's optional - we could also write whole blog to the index.
+
+* [Docs](https://anl1.github.io/movie-ratings/docs)
 
