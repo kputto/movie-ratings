@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+## Welcome to Movie-Ratings' project page
 
 You can use the [editor on GitHub](https://github.com/anL1/movie-ratings/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### About the project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you find yourself constantly wondering about new movie ideas or assessing box-office revenues - or in general have even wathced movies in the 21st century or searched movie recommendations from the web in the recent past - you've probably at least heard of **IMDB** and **Rotten Tomatoes**. 
 
-```markdown
-Syntax highlighted code block
+These sites have very widely acknowledged rating systems and thus many people rely on them when searching new films to add to their watchlists.
 
-# Header 1
-## Header 2
-### Header 3
+These sites serve also as great source of data about movies and their reception among audiences. Our goal is to use this data to train a **Machine Learning model** which predicts the rating of a movie based on the description of movie idea. If this sounds like a service you have been missing for the past 10 years then look no further!
 
-- Bulleted
-- List
+### Further reading
 
-1. Numbered
-2. List
+* Docs etc.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anL1/movie-ratings/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
