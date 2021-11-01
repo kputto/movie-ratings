@@ -18,3 +18,6 @@ This is just an example using several pages in this blog. It's optional - we cou
 
 * [Docs](https://anl1.github.io/movie-ratings/docs)
 
+### HTML
+
+{%  include hello.html  %}
