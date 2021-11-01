@@ -23,7 +23,6 @@ Unfortunately we have not made our product yet publicly available in the form of
 
 Please contact us in order to get your ideas boosted by ML predictions. In the meantime, here’s a demonstration how our model predicted the tomatometer rating of Paddington 2:
 
-#### Description
 
 > Paddington, now happily settled with the Brown family and a popular member of the local community, picks up a series of odd jobs to buy the perfect present for his Aunt Lucy's 100th birthday, only for the gift to be stolen.
 
@@ -34,10 +33,4 @@ Predicted tomatometer score: 58.9
 ### Bokeh
 
 {%  include similarity_plot.html  %}
-
-### Further reading
-
-This is just an example using several pages in this blog. It's optional - we could also write whole blog to the index.
-
-* [Docs](https://anl1.github.io/movie-ratings/docs)
 
