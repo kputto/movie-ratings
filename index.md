@@ -30,7 +30,9 @@ Please contact us in order to get your ideas boosted by ML predictions. In the m
 Predicted tomatometer score: 58.9
 ```
 
-### Bokeh
+### Your script...the next Star Wars or Titanic?
+
+Would you like to compare your script with the scripts of the best movies of all time? With our solution, that will be possible. Below, you can see the similarity of the movie scripts of the 79 movies (0 = low similarity, 1 = high similarity).
 
 {%  include similarity_plot.html  %}
 
